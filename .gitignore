@@ -1,0 +1,4 @@
+*.class
+*.java
+*.jar
+!decompiler.jar
